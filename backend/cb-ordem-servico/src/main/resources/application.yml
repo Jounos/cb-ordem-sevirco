@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: cb-ordem-servico
+    profiles:
+        active: dev
